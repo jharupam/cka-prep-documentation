@@ -6,4 +6,3 @@ In Kubernetes (K8s), Docker containers are often used as the runtime environment
 Kubernetes manages the deployment, scaling, and operation of these containers, 
 orchestrating them across a cluster of compute nodes to ensure high availability, scalability, and resilience of the applications. 
 By leveraging Docker containers within Kubernetes, developers can easily deploy and manage complex microservices-based applications with efficiency and agility.
-
