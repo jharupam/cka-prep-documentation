@@ -1,0 +1,9 @@
+
+Docker is a containerization platform that allows developers to package applications and their dependencies into lightweight, portable containers. 
+These containers encapsulate everything an application needs to run, including the code, runtime, system tools, libraries, and settings. 
+Docker containers are isolated from each other and from the underlying host system, ensuring consistency and reproducibility across different environments. 
+In Kubernetes (K8s), Docker containers are often used as the runtime environment for application workloads. 
+Kubernetes manages the deployment, scaling, and operation of these containers, 
+orchestrating them across a cluster of compute nodes to ensure high availability, scalability, and resilience of the applications. 
+By leveraging Docker containers within Kubernetes, developers can easily deploy and manage complex microservices-based applications with efficiency and agility.
+
